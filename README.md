@@ -1,4 +1,4 @@
-# MyFinPlace
+# Test technique
 
 ## 2 routes :
     /connexion
