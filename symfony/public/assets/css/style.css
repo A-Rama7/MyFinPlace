@@ -18,7 +18,7 @@ body{
     padding: 1rem;
     gap: 1rem;
     background-color: rgb(34, 34, 34);
-    border: 1px solid aqua;
+    /* border: 1px solid aqua; */
     border-radius: 1rem;
 }
 
@@ -30,5 +30,5 @@ body{
     gap: 1rem;
     background-color: rgb(34, 34, 34);
     border-radius: 1rem;
-    border: 1px solid aqua;
+    /* border: 1px solid aqua; */
 }
