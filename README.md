@@ -1,4 +1,4 @@
-# Test technique
+# Test technique connexion/inscription
 
 ## 2 routes :
     /connexion
